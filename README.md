@@ -7,8 +7,9 @@ This is a simple ±12V 1A bipolar linear power supply using the LM317 and LM337 
 ![Front of power supply](https://raw.githubusercontent.com/GREENSHELLRAGE/simple-power-supply/main/images/IMG_4641.png)
 ![Back of power supply](https://raw.githubusercontent.com/GREENSHELLRAGE/simple-power-supply/main/images/IMG_4642.png)
 ![Inside of power supply](https://raw.githubusercontent.com/GREENSHELLRAGE/simple-power-supply/main/images/IMG_4644.png)
+![Powering a small TV](https://raw.githubusercontent.com/GREENSHELLRAGE/simple-power-supply/main/images/IMG_4655.png)
 
-# Notes for assembling the circuit
+# Notes for Assembling the Circuit
 
 - Mount the LM317 and LM337 regulators on heatsinks (they will get warm)
 - The metal case of the supply is connected to earth, the GND connector on the front is isolated from earth
